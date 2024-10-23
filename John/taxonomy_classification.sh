@@ -1,14 +1,20 @@
 #!/bin/bash
 
+#SBATCH --job-name=qiime_classification     # Job name
+#SBATCH --output=qiime_classification.out   # Standard output log
+#SBATCH --error=qiime_classification.err    # Standard error log
+#SBATCH --time=24:00:00                     # Maximum run time (hh:mm:ss)
+#SBATCH --ntasks=1                          # Number of tasks (set to 1 for serial jobs)
+#SBATCH --cpus-per-task=2                   # Number of CPU cores per task
+#SBATCH --mem-per-cpu=64G                   # Total memory allocation
 
-
-
-
-
+# Load the appropriate environment and activate conda
+source ~/.bashrc                            # Make sure to source your bashrc to initialize conda
+conda activate qiime2-amplicon-2024.5        # Activate the QIIME2 conda environment
 
 # Define variables
-CLASSIFIER="./data/classifiers/unite_ver10_99_04.04.2024-Q2-2024.5.qza"
-READS="./data/rep-seqs.qza"
+CLASSIFIER="./unite_ver10_99_all_04.04.2024-Q2-2024.5.qza"
+READS="./rep-seqs.qza"
 OUTPUT="./taxonomy.qza"
 
 # Check if classifier file exists
@@ -27,7 +33,7 @@ fi
 qiime feature-classifier classify-sklearn \
   --i-classifier "$CLASSIFIER" \
   --i-reads "$READS" \
-  --p-reads-per-batch 10 \
+  --p-reads-per-batch 1 \
   --p-n-jobs 0 \
   --o-classification "$OUTPUT"
 
