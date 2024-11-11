@@ -1,5 +1,5 @@
 import os
-from ipywidgets import Dropdown, Output
+from ipywidgets import Dropdown, Output, VBox
 from IPython.display import display
 from qiime2 import Visualization
 
@@ -28,3 +28,33 @@ def display_qzv_selector(directory='../data/core-metrics-results'):
     dropdown.observe(on_file_change, names='value')
 
     display(dropdown, out)
+
+    
+
+def create_category_selector(categories=["country", "state", "sex", "diet_type", "ibd", "gluten"]):
+    # Output widget for displaying selection feedback
+    out = Output()
+
+    # Dropdown widget
+    category_dropdown = Dropdown(
+        options=categories,
+        description='Select Category:',
+        disabled=False,
+    )
+
+    # Function to handle category selection and return the selected value
+    def on_category_change(change):
+        with out:
+            out.clear_output()
+            selected_category = change["new"]
+            print(f'Selected category: {selected_category}')
+            return selected_category  # Return the selected category here
+
+    # Observe changes in the dropdown
+    category_dropdown.observe(on_category_change, names='value')
+
+    # Display dropdown and output area
+    display(VBox([category_dropdown, out]))
+
+    # Return the output widget to access the selected category in the notebook
+    return category_dropdown
