@@ -29,6 +29,8 @@ if [ ! -f "$READS" ]; then
     exit 1
 fi
 
+echo "Performing taxonomic classification..."
+
 # Run the qiime command
 qiime feature-classifier classify-sklearn \
   --i-classifier "$CLASSIFIER" \
