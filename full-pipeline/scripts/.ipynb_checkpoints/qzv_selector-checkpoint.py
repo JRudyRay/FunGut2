@@ -31,7 +31,7 @@ def display_qzv_selector(directory='../data/core-metrics-results'):
 
     
 
-def create_category_selector(categories=["country", "state", "sex", "diet_type", "ibd", "gluten"]):
+def create_category_selector(categories=["country_sample", "state_sample", "sex_sample", "diet_type_sample", "ibd_symptoms", "gluten_symptoms", "age_group", "bmi_category", "is_urban"]):
     # Output widget for displaying selection feedback
     out = Output()
 
