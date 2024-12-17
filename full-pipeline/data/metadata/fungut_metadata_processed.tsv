@@ -1,5 +1,5 @@
 ID	country_sample	state_sample	latitude_sample	longitude_sample	sex_sample	age_years_sample	height_cm_sample	weight_kg_sample	bmi_sample	diet_type_sample	ibd_sample	gluten_sample	ibd_symptoms	gluten_symptoms	is_urban	age_group	bmi_category
-ERR5327198	USA	TN	36.1	-86.8	female	67.0	152	41	17.75	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Senior	Underweight
+ERR5327198	USA	TN	36.1	-86.8	female	67.0	152.0	41.0	17.75	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Senior	Underweight
 ERR5327199	USA	DC	38.9	-77.1	male	55.0	182.0	79.0	23.73	Omnivore	I do not have this condition	I was diagnosed with gluten allergy (anti-gluten IgG), but not celiac disease	no_symptoms	symptoms	True	Older Adult	Normal weight
 ERR5327266	USA	VA	38.9	-77.1	female	28.0	175.0	61.0	19.94	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	no_symptoms	symptoms	True	Adult	Normal weight
 ERR5327282	United Kingdom	Not provided	51.6	-0.2	female	26.0	166.0	60.0	21.77	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Adult	Normal weight
@@ -26,13 +26,13 @@ ERR5327327	Australia	ACT	-35.2	149.1	male	55.0	178.0	72.0	22.72	Omnivore	I do no
 ERR5327329	Australia	NSW	-33.8	151.2	male	56.0	170.0	75.0	25.95	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Older Adult	Overweight
 ERR5327332	Australia	VIC	-37.8	145.0	female	41.0	161.0	69.0	26.62	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Older Adult	Overweight
 ERR5327335	Australia	VIC	-37.8	145.0	male	55.0	183.0	67.0	20.01	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Older Adult	Normal weight
-ERR5327338	Australia	VIC	-37.8	147.1	male	2.0	Not provided	Not provided		Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Child	Others
+ERR5327338	Australia	VIC	-37.8	147.1	male	2.0				Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Child	Others
 ERR5327340	Australia	QLD	-24.6	150.3	male	60.0	175.0	74.0	24.16	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Senior	Normal weight
 ERR5327343	Australia	QLD	-27.5	152.9	male	37.0	186.0	72.0	20.81	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Adult	Normal weight
 ERR5327344	Australia	QLD	-27.6	152.9	female	46.0	152.0	66.0	28.42	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Older Adult	Overweight
 ERR5327346	Australia	QLD	-26.4	153.1	male	51.0	185.0	78.0	22.79	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Older Adult	Normal weight
 ERR5327348	Australia	NSW	-33.7	151.0	female	39.0	163.0	64.0	24.09	Omnivore	Diagnosed by a medical professional (doctor, physician assistant)	No	symptoms	no_symptoms	True	Adult	Normal weight
-ERR5327349	Australia	NSW	-33.7	151.0	male	2.0	Not provided	9.0		Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Child	Others
+ERR5327349	Australia	NSW	-33.7	151.0	male	2.0		9.0		Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Child	Others
 ERR5327351	Australia	VIC	-38.1	145.5	female	10.0	144.0	34.0	16.4	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Adolescent	Underweight
 ERR5327352	Australia	VIC	-38.1	145.5	female	8.0	132.0	25.0	14.35	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Child	Underweight
 ERR5327353	Australia	VIC	-38.1	145.5	female	3.0	94.0	13.0	14.71	Vegan	I do not have this condition	No	no_symptoms	no_symptoms	False	Child	Underweight
@@ -51,7 +51,7 @@ ERR5327394	USA	FL	28.5	-81.4	male	65.0	172.0	81.0	27.37	Vegetarian but eat seafo
 ERR5327395	USA	CO	40.0	-105.2	male	36.0	180.0	63.0	19.6	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	no_symptoms	symptoms	True	Adult	Normal weight
 ERR5327396	USA	CO	40.0	-105.2	male	36.0	180.0	63.0	19.6	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	no_symptoms	symptoms	True	Adult	Normal weight
 ERR5327401	USA	TX	30.4	-97.8	male	13.0	147.0	49.0	22.99	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	no_symptoms	symptoms	True	Adolescent	Normal weight
-ERR5327402	Australia	QLD	-27.5	153.0	male	37.0	174	85	28.08	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Adult	Overweight
+ERR5327402	Australia	QLD	-27.5	153.0	male	37.0	174.0	85.0	28.08	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Adult	Overweight
 ERR5327404	Australia	VIC	-38.2	144.3	male	54.0	180.0	55.0	16.98	Omnivore	Diagnosed by a medical professional (doctor, physician assistant)	I do not eat gluten because it makes me feel bad	symptoms	symptoms	False	Older Adult	Underweight
 ERR5327405	Australia	VIC	-38.2	144.3	female	49.0	169.0	52.0	18.21	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	no_symptoms	symptoms	False	Older Adult	Underweight
 ERR5327406	Australia	VIC	-34.6	141.5	male	56.0	186.0	110.0	31.8	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Older Adult	Obesity
@@ -76,7 +76,7 @@ ERR5327434	USA	CO	39.7	-105.0	male	53.0	172.0	58.0	19.77	Vegan	I do not have thi
 ERR5327435	USA	CO	39.0	-105.0	male	-1.0	182.0	90.0	27.12	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Others	Overweight
 ERR5327439	USA	CO	39.4	-104.9	male	2.0	76.0	10.0	18.75	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Child	Normal weight
 ERR5327442	New Zealand	Otago	-45.9	170.5	male	78.0	177.0	77.0	24.39	Vegetarian but eat seafood	I do not have this condition	No	no_symptoms	no_symptoms	True	Senior	Normal weight
-ERR5327443	Not provided	Not provided	Not provided	Not provided	male	45.0	196.0	108.0	28.11	Omnivore but do not eat red meat	I do not have this condition	No	no_symptoms	no_symptoms	Not provided	Older Adult	Overweight
+ERR5327443	Not provided	Not provided			male	45.0	196.0	108.0	28.11	Omnivore but do not eat red meat	I do not have this condition	No	no_symptoms	no_symptoms	Not provided	Older Adult	Overweight
 ERR5327444	New Zealand	Otago	-45.8	170.5	male	56.0	170.0	72.0	24.86	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Older Adult	Normal weight
 ERR5327445	USA	VA	37.0	-76.5	female	63.0	160.0	56.0	21.97	Not provided	Self-diagnosed	No	symptoms	no_symptoms	False	Senior	Normal weight
 ERR5327447	USA	OR	44.1	-123.0	female	52.0	119.0	63.0	44.88	Omnivore but do not eat red meat	I do not have this condition	No	no_symptoms	no_symptoms	False	Older Adult	Obesity
@@ -101,7 +101,7 @@ ERR5327493	United Kingdom	Not provided	51.5	-0.6	male	46.0	175.0	68.0	22.15	Omni
 ERR5327498	United Kingdom	Not provided	51.5	-0.3	female	50.0	164.0	63.0	23.61	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	no_symptoms	symptoms	True	Older Adult	Normal weight
 ERR5327502	United Kingdom	Not provided	51.5	0.0	male	27.0	177.0	66.0	21.09	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Adult	Normal weight
 ERR5327503	United Kingdom	Not provided	52.0	-2.1	female	52.0	157.0	53.0	21.77	Omnivore	I do not have this condition	I was diagnosed with gluten allergy (anti-gluten IgG), but not celiac disease	no_symptoms	symptoms	False	Older Adult	Normal weight
-ERR5327507	United Kingdom	Not provided	Not provided	Not provided	male	31.0	193.0	105.0	28.19	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	Not provided	Adult	Overweight
+ERR5327507	United Kingdom	Not provided			male	31.0	193.0	105.0	28.19	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	Not provided	Adult	Overweight
 ERR5327509	United Kingdom	Not provided	50.9	-1.4	male	-1.0	181.0	90.0	27.47	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Others	Overweight
 ERR5327511	United Kingdom	Not provided	52.4	-1.9	male	74.0	180.0	91.0	27.98	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Senior	Overweight
 ERR5327513	United Kingdom	Not provided	51.5	-0.2	male	67.0	185.0	81.0	23.62	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Senior	Normal weight
@@ -112,7 +112,7 @@ ERR5327521	USA	IL	41.8	-87.6	male	65.0	167.0	77.0	27.44	Omnivore	I do not have t
 ERR5327523	Australia	VIC	-37.8	145.0	male	36.0	183.0	81.0	24.19	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	no_symptoms	symptoms	True	Adult	Normal weight
 ERR5327529	USA	CA	38.0	-122.5	other	71.0	160.0	50.0	19.84	Vegetarian but eat seafood	I do not have this condition	I do not eat gluten because it makes me feel bad	no_symptoms	symptoms	False	Senior	Normal weight
 ERR5327531	USA	TX	32.7	-97.4	male	43.0	187.0	79.0	22.47	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Older Adult	Normal weight
-ERR5327533	USA	Not provided	Not provided	Not provided	female	-1.0	165.0	54.0	19.83	Omnivore	Not provided	No	Not provided	no_symptoms	Not provided	Others	Normal weight
+ERR5327533	USA	Not provided			female	-1.0	165.0	54.0	19.83	Omnivore	Not provided	No	Not provided	no_symptoms	Not provided	Others	Normal weight
 ERR5327534	USA	CA	34.2	-118.4	male	67.0	182.0	80.0	24.15	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	no_symptoms	symptoms	True	Senior	Normal weight
 ERR5327535	USA	UT	41.2	-112.0	female	40.0	170.0	68.0	23.49	Omnivore	Diagnosed by a medical professional (doctor, physician assistant)	I do not eat gluten because it makes me feel bad	symptoms	symptoms	True	Older Adult	Normal weight
 ERR5327539	USA	TN	36.2	-86.8	male	33.0	170.0	76.0	26.52	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Adult	Overweight
@@ -128,13 +128,13 @@ ERR5327561	United Kingdom	Not provided	51.3	-0.3	female	28.0	164.0	75.0	27.89	Om
 ERR5327562	United Kingdom	Not provided	51.5	-1.1	male	65.0	182.0	62.0	18.54	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Senior	Normal weight
 ERR5327566	United Kingdom	Not provided	52.5	-1.3	female	61.0	162.0	86.0	32.61	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Senior	Obesity
 ERR5327567	United Kingdom	Not provided	52.2	-1.8	female	71.0	160.0	60.0	23.56	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Senior	Normal weight
-ERR5327568	United Kingdom	Not provided	51.4	-2.8	female	46.0	160	59	23.39	Omnivore	Diagnosed by a medical professional (doctor, physician assistant)	No	symptoms	no_symptoms	False	Older Adult	Normal weight
+ERR5327568	United Kingdom	Not provided	51.4	-2.8	female	46.0	160.0	59.0	23.39	Omnivore	Diagnosed by a medical professional (doctor, physician assistant)	No	symptoms	no_symptoms	False	Older Adult	Normal weight
 ERR5327569	United Kingdom	Not provided	50.8	-1.0	male	65.0	180.0	88.0	27.06	Omnivore	Diagnosed by a medical professional (doctor, physician assistant)	No	symptoms	no_symptoms	False	Senior	Overweight
 ERR5327573	United Kingdom	Not provided	51.1	0.0	female	55.0	170.0	71.0	24.57	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	no_symptoms	symptoms	False	Older Adult	Normal weight
 ERR5327575	United Kingdom	Not provided	55.9	-4.9	female	58.0	154.0	50.0	21.16	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	no_symptoms	symptoms	False	Older Adult	Normal weight
 ERR5327576	United Kingdom	Not provided	51.5	-2.6	female	41.0	165.0	78.0	28.65	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	no_symptoms	symptoms	True	Older Adult	Overweight
 ERR5327581	United Kingdom	Not provided	51.4	-0.1	female	46.0	165.0	60.0	22.13	Omnivore	I do not have this condition	I do not eat gluten because it makes me feel bad	no_symptoms	symptoms	True	Older Adult	Normal weight
-ERR5327584	United Kingdom	Not provided	Not provided	Not provided	male	67.0	198.0	112.0	28.66	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	Not provided	Senior	Overweight
+ERR5327584	United Kingdom	Not provided			male	67.0	198.0	112.0	28.66	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	Not provided	Senior	Overweight
 ERR5327586	United Kingdom	Not provided	53.9	-1.6	female	75.0	157.0	57.0	23.05	Vegetarian but eat seafood	I do not have this condition	No	no_symptoms	no_symptoms	False	Senior	Normal weight
 ERR5327587	United Kingdom	Not provided	51.1	-0.7	male	82.0	156.0	90.0	36.98	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	False	Senior	Obesity
 ERR5327591	United Kingdom	Not provided	53.0	-1.1	female	67.0	167.0	82.0	29.38	Omnivore	I do not have this condition	No	no_symptoms	no_symptoms	True	Senior	Overweight
