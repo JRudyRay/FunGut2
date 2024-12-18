@@ -1,0 +1,17 @@
+id,(Intercept),country_sampleAustralia,country_sampleGermany,country_sampleIsle of Man,country_sampleNew Zealand,country_sampleNot provided,country_sampleSweden,country_sampleUnited Kingdom
+k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Eurotiales;f__Aspergillaceae;g__Penicillium;__,0.2634767568181908,1,1,1,0.45712183638554854,1,1,1
+k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Eurotiales;f__Aspergillaceae;g__Aspergillus;s__Aspergillus_sp,1,1,0.49381114739540716,0.8843749171195949,1,0.7295586990740537,0.8016862544148305,0.04006806588941375
+k__Fungi;__;__;__;__;__;__,1,0.7161880934095919,0.2689442606765259,3.452183868041984e-6,1,0.4849514141516423,0.6272269217372801,1
+k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Pichiaceae;g__Pichia;s__Pichia_kudriavzevii,1,0.27594649236224944,0.04154600021429671,0.12670783001244895,1,0.09768885267879465,0.15636121341813009,1
+k__Fungi;p__Mucoromycota;c__Mucoromycetes;o__Mucorales;f__Mucoraceae;g__Mucor;s__Mucor_circinelloides,0.1745109715508001,1,1,1,1,1,1,0.017914613281317975
+k__Fungi;p__Fungi_phy_Incertae_sedis;c__Fungi_cls_Incertae_sedis;o__Fungi_ord_Incertae_sedis;f__Fungi_fam_Incertae_sedis;g__Fungi_gen_Incertae_sedis;s__Fungi_sp,0.2634767568181908,0.13499542513671872,4.786295540729366e-16,5.993347395014137e-5,1,2.6612766420874125e-5,3.1130325126808325e-22,1
+k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces;s__Saccharomyces_cerevisiae,1,1,0.3193221519457816,0.7813397102344201,1,0.6583892148893281,0.722135797754995,1
+k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Eurotiales;f__Aspergillaceae;g__Penicillium;s__Penicillium_sp,0.1638511885426294,0.13499542513671872,1,1,1,1,0,0.6579984958744769
+k__Fungi;p__Basidiomycota;c__Tremellomycetes;o__Trichosporonales;f__Trichosporonaceae;g__Trichosporon;s__Trichosporon_asahii,1,1,0.2689442606765259,0.7134077068356447,1,7.872983833140389e-239,0.6859323232980726,1
+k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Eurotiales;f__Aspergillaceae;g__Aspergillus;__,1,0.007600542168936682,0.054024193391102565,0.12734607427761777,1,0.10407739515983554,0.15636121341813009,0.05639107103842214
+k__Fungi;p__Basidiomycota;c__Tremellomycetes;o__Trichosporonales;f__Trichosporonaceae;g__Trichosporon;s__Trichosporon_ovoides,1,1,5.5030335499845363e-306,1,1,1,1,1
+k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetales_fam_Incertae_sedis;g__Candida;s__Candida_albicans,6.68127801336282e-35,1,0.021149524433739287,0.021857616801698808,0.6917980325022551,0.0015578653098791387,0.5851676446966758,1
+k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Debaryomycetaceae;g__Suhomyces;s__Suhomyces_kilbournensis,2.1111191379644356e-21,1,7.526671706901513e-7,3.4321677076669024e-47,1,1.0853082359790685e-8,0,1.0853966583115054e-9
+k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Eurotiales;f__Aspergillaceae;g__Penicillium;s__Penicillium_roqueforti,0.1638511885426294,0.0262518949598015,0.001011798649138312,0.0024232699567344755,1,0.0015848307589001137,5.102812615734556e-14,1
+k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetales_fam_Incertae_sedis;g__Candida;s__Candida_tropicalis,0.1745109715508001,1,1,1,1,1,1,1
+k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetales_fam_Incertae_sedis;g__Candida;s__Candida_parapsilosis,0.10760506236404227,1,8.560956147146554e-5,0.0017744473340095856,1,0.0012843696344017246,0.0018916546239386637,1

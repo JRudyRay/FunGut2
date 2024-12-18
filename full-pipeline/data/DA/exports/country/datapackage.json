@@ -1,0 +1,247 @@
+{
+  "resources": [
+    {
+      "name": "lfc_slice",
+      "path": "lfc_slice.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "(Intercept)",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleAustralia",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleGermany",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleIsle of Man",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleNew Zealand",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleNot provided",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleSweden",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleUnited Kingdom",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "se_slice",
+      "path": "se_slice.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "(Intercept)",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleAustralia",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleGermany",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleIsle of Man",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleNew Zealand",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleNot provided",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleSweden",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleUnited Kingdom",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "w_slice",
+      "path": "w_slice.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "(Intercept)",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleAustralia",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleGermany",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleIsle of Man",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleNew Zealand",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleNot provided",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleSweden",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleUnited Kingdom",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "p_val_slice",
+      "path": "p_val_slice.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "(Intercept)",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleAustralia",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleGermany",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleIsle of Man",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleNew Zealand",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleNot provided",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleSweden",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleUnited Kingdom",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "q_val_slice",
+      "path": "q_val_slice.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "(Intercept)",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleAustralia",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleGermany",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleIsle of Man",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleNew Zealand",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleNot provided",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleSweden",
+            "type": "number"
+          },
+          {
+            "name": "country_sampleUnited Kingdom",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "intercept_groups": "country_sample::USA"
+  }
+}

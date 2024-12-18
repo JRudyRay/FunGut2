@@ -1,0 +1,17 @@
+id,(Intercept),bmi_categoryObesity,bmi_categoryOthers,bmi_categoryOverweight,bmi_categoryUnderweight
+k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Eurotiales;f__Aspergillaceae;g__Penicillium;__,0.35553706429391135,1,0.1909656858441862,1,1
+k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Eurotiales;f__Aspergillaceae;g__Aspergillus;s__Aspergillus_sp,1,1,0.05679331139252143,0.00272715197037073,1
+k__Fungi;__;__;__;__;__;__,0.19544394680393262,1,3.567982297516279e-5,0.3575637425691075,1
+k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Pichiaceae;g__Pichia;s__Pichia_kudriavzevii,0.07166197268223855,1,1,1,1
+k__Fungi;p__Mucoromycota;c__Mucoromycetes;o__Mucorales;f__Mucoraceae;g__Mucor;s__Mucor_circinelloides,5.015937803890458e-15,1,1,1,0.38225925797594873
+k__Fungi;p__Fungi_phy_Incertae_sedis;c__Fungi_cls_Incertae_sedis;o__Fungi_ord_Incertae_sedis;f__Fungi_fam_Incertae_sedis;g__Fungi_gen_Incertae_sedis;s__Fungi_sp,2.4189359026455452e-4,1,1,1,1
+k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces;s__Saccharomyces_cerevisiae,1,1,0.013508047424868927,1,0.6197008808577729
+k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Eurotiales;f__Aspergillaceae;g__Penicillium;s__Penicillium_sp,0.16892504920428,1,1,1,0.32926602439082936
+k__Fungi;p__Basidiomycota;c__Tremellomycetes;o__Trichosporonales;f__Trichosporonaceae;g__Trichosporon;s__Trichosporon_asahii,1,0.9286550109509254,1,1,1
+k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Eurotiales;f__Aspergillaceae;g__Aspergillus;__,0.4856489270443458,1,0.16652510531271236,1,1
+k__Fungi;p__Basidiomycota;c__Tremellomycetes;o__Trichosporonales;f__Trichosporonaceae;g__Trichosporon;s__Trichosporon_ovoides,1,1,1,0.3575637425691075,1
+k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetales_fam_Incertae_sedis;g__Candida;s__Candida_albicans,1.0683176857787724e-60,1,1,1,1
+k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Debaryomycetaceae;g__Suhomyces;s__Suhomyces_kilbournensis,0.0193291593629584,1,1.7401524510391207e-4,1,1
+k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Eurotiales;f__Aspergillaceae;g__Penicillium;s__Penicillium_roqueforti,0.005421629829699555,0.47661632571998486,1,1,1
+k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetales_fam_Incertae_sedis;g__Candida;s__Candida_tropicalis,1.3303410999906603e-8,1,1,1,1
+k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetales_fam_Incertae_sedis;g__Candida;s__Candida_parapsilosis,0.006859028639807275,1,0.419271847710155,1,1

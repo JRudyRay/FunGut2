@@ -1,0 +1,207 @@
+{
+  "resources": [
+    {
+      "name": "lfc_slice",
+      "path": "lfc_slice.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "(Intercept)",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleNot provided",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleOmnivore but do not eat red meat",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegan",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegetarian",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegetarian but eat seafood",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "se_slice",
+      "path": "se_slice.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "(Intercept)",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleNot provided",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleOmnivore but do not eat red meat",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegan",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegetarian",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegetarian but eat seafood",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "w_slice",
+      "path": "w_slice.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "(Intercept)",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleNot provided",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleOmnivore but do not eat red meat",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegan",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegetarian",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegetarian but eat seafood",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "p_val_slice",
+      "path": "p_val_slice.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "(Intercept)",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleNot provided",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleOmnivore but do not eat red meat",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegan",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegetarian",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegetarian but eat seafood",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "q_val_slice",
+      "path": "q_val_slice.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "(Intercept)",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleNot provided",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleOmnivore but do not eat red meat",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegan",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegetarian",
+            "type": "number"
+          },
+          {
+            "name": "diet_type_sampleVegetarian but eat seafood",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "intercept_groups": "diet_type_sample::Omnivore"
+  }
+}
